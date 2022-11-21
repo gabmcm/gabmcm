@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Gab</h1>
 <h3 align="center">A passionate fullstack developer @100Devs from Toronto</h3>
 
-- 🔭 I’m currently working on **BiblioStack**
+- 🔭 I’m currently working on **Trakit**
 
 - 🌱 I’m currently learning **React**
 

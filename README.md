@@ -1,5 +1,3 @@
-<img src="https://github.com/gabmcm/gabmcm/blob/f7bfe03be053fd2f588475100581a8a717372177/cover.png"/>
-
 <h1 align="center">Hi 👋, I'm Gab</h1>
 <h3 align="center">A passionate fullstack developer from Toronto</h3>
 

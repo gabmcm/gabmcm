@@ -1,15 +1,15 @@
 <img src="https://github.com/gabmcm/gabmcm/blob/f7bfe03be053fd2f588475100581a8a717372177/cover.png"/>
 
 <h1 align="center">Hi 👋, I'm Gab</h1>
-<h3 align="center">A passionate fullstack developer @100Devs from Toronto</h3>
+<h3 align="center">A passionate fullstack developer from Toronto</h3>
 
-- 🔭 I’m currently working on **Trakit**
+- 🔭 Currently working on: optimizations for Trakit: The Simple Migraine Tracker
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently reading: A Common-Sense Guide to Data Structures and Algorithms 
 
 - 👨‍💻 All of my projects are available at [https://gabmcm.netlify.app/](https://gabmcm.netlify.app/)
 
-- ⚡ Fun fact **A raccoon will rinse its food in water prior to eating it. When there is no water close by, a raccoon will still rub its food to remove debris.**
+- ⚡ Fact about me: I love racoons 🦝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
